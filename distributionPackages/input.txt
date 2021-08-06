@@ -1,0 +1,9 @@
+factory1 1 warehouse 2 2 2000
+warehouse1 2 depot1 3 5 5000
+warehouse1 2 depot2 4 7 7000
+depot1 3 customer1 5 1 3000
+depot1 3 customer2 6 2 4000
+depot1 3 customer3 7 3 2000
+depot2 4 customer1 5 2 3000
+depot2 4 customer2 6 1 2000
+depot2 4 customer3 7 4 3500
